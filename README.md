@@ -3,18 +3,13 @@
 This is a
 [SecretManagement](https://github.com/PowerShell/SecretManagement)
 extension for
-[LastPass](https://lastpass.com).
-It leverages the [`lastpass-cli`](https://github.com/lastpass/lastpass-cli)
-to interact with LastPass.
+Delinea Secret Server
 
-> **NOTE: This is not a maintained project and it's specifically not maintained _by_ LastPass.**
-> **I work on it in my free time because I use LastPass personally.**
-> The dream is that one day this would move under the LastPass organization.
+> **NOTE: This is not a maintained project and it's specifically not maintained _by_ Delinea.**
 
 ## Prerequisites
 
 * [PowerShell](https://github.com/PowerShell/PowerShell)
-* The [`lastpass-cli`](https://github.com/lastpass/lastpass-cli)
 * The [SecretManagement](https://github.com/PowerShell/SecretManagement) PowerShell module
 
 You can get the `SecretManagement` module from the PowerShell Gallery:
