@@ -5,6 +5,8 @@ This is a
 extension for
 Delinea Secret Server
 
+Credit to https://github.com/TylerLeonhardt/SecretManagement.LastPass
+
 > **NOTE: This is not a maintained project and it's specifically not maintained _by_ Delinea.**
 
 ## Prerequisites
